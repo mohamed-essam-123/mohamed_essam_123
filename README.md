@@ -1,9 +1,9 @@
-# 🙋‍♀️ About Me:
+# 🙋‍♂️ About Me:
 
-- 🏃‍♂️ I’m a student at **NUB Univercity**.
-- 💻 I’m in **Computer Science** department.
-- 🎨 **Frontend Developer**.
-- 🧑‍💻 All of my projects are available at [My Repository](https://github.com/mohamed_essam_123?tab=repositories)
+- 🧑‍🎓 I’m a student at **NAHDA (NUB) University**
+- 💻 I’m in the **Computer Science** department
+- 🎨 Passionate about **Frontend Development**
+- 📂 Check out my projects on [My GitHub](https://github.com/mohamed_essam_123?tab=repositories)
 
 ---
 
@@ -23,36 +23,35 @@
 
 ---
 
-# 📊 My Stats:
+# 🏅 GitHub Badges:
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=mohamed_essam_123&show_icons=true&theme=dark)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mohamed_essam_123&layout=compact&theme=dark)
+![👥 Followers](https://img.shields.io/github/followers/mohamed_essam_123?style=social)
+![⭐ Stars](https://img.shields.io/github/stars/mohamed_essam_123?style=social)
 
 ---
 
-# 🤝 Connect With Me:
+# 📈 GitHub Stats:
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)]([https://www.linkedin.com/in/YOUR_LINKEDIN](https://www.linkedin.com/in/mohamed-essam-04ab5a2b7?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app))
-[![Gmail](https://img.shields.io/badge/Gmail-red?style=for-the-badge&logo=gmail)](mailto:mohamedessam010928@gmail.com)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=mohamed_essam_123&show_icons=true&theme=radical)
+
+---
+
+# 🔥 GitHub Streak:
+
+[![GitHub Streak](https://streak-stats.demolab.com/?user=mohamed_essam_123&theme=radical)](https://git.io/streak-stats)
 
 ---
 
 # 💙 Views and Followers:
 
-![Profile views](https://komarev.com/ghpvc/?username=mohamed_essam_123)
+![Profile views](https://komarev.com/ghpvc/?username=mohamed_essam_123&color=blue)
 [![Followers](https://img.shields.io/github/followers/mohamed_essam_123?label=Followers&style=social)](https://github.com/mohamed_essam_123)
 
+---
 
-GitHub Badges :
+# 🤝 Connect With Me:
 
-![GitHub followers](https://img.shields.io/github/followers/mohamed_essam_123?style=social)
-![GitHub User's stars](https://img.shields.io/github/stars/mohamed_essam_123?style=social)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mohamed-essam-04ab5a2b7)
+[![Gmail](https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mohamedessam010928@gmail.com)
 
-GitHub Stats :
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=mohamed_essam_123&show_icons=true&theme=radical)
-
-GitHub Streak :
-
-[![GitHub Streak](https://streak-stats.demolab.com/?user=mohamed_essam_123)](https://git.io/streak-stats)
 
