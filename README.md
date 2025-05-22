@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Mohamed Essam</h1>
-<h3 align="center">A passionate Full Stack developer from Egypt</h3>
+<h3 align="center">Full Stack developer </h3>
 
 ## 🙋‍♂️ About Me:
 - 🎓 Computer Science student at Nahda University (NUB)
