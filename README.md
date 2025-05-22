@@ -7,6 +7,7 @@
 - 🌱 Currently improving my skills in JavaScript, React, and backend technologies
 - 📂 Browse my projects here: [My GitHub Repositories](https://github.com/mohamed-essam-123?tab=repositories)
 
+-------
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mohamed-essam-123" alt="mohamed-essam-123" /></a> </p>
 
 <h3 align="left">Connect with me:</h3>
@@ -26,13 +27,6 @@
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mohamed-essam-123&" alt="mohamed-essam-123" /></p>
 
 
-
-## 📊 GitHub Stats:
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=mohamed-essam-123&show_icons=true&theme=radical)
-[![GitHub Streak](https://streak-stats.demolab.com?user=mohamed-essam-123&theme=radical)](https://git.io/streak-stats)
-![Profile views](https://komarev.com/ghpvc/?username=mohamed-essam-123&color=blue)
-
----
 
 ## 🤝 Connect with Me:
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mohamed-essam-04ab5a2b7)
