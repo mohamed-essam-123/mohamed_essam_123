@@ -3,7 +3,7 @@
 
 ## 🙋‍♂️ About Me:
 - 🎓 Computer Science student at Nahda University (NUB)
-- 💻 Passionate Frontend Developer with a love for clean UI and responsive design
+- 💻 Passionate Full Stack Developer with a love for clean UI and responsive design
 - 🌱 Currently improving my skills in JavaScript, React, and backend technologies
 - 📂 Browse my projects here: [My GitHub Repositories](https://github.com/mohamed-essam-123?tab=repositories)
 
